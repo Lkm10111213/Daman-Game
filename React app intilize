@@ -1,0 +1,4 @@
+cd Daman-Game
+npx create-react-app client
+cd client
+npm install axios socket.io-client
