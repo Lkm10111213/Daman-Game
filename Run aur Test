@@ -1,0 +1,5 @@
+# server फोल्डर में
+npm run dev
+# server http://localhost:4000 पर चलेगा
+curl http://localhost:4000/
+# Expect: "Daman-Game Backend OK"
